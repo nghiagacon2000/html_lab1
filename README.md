@@ -17,7 +17,7 @@
             <img src="img/logo.jpg" alt="logo" style="width:10%;margin-left: 40px;">
             <ul>
                 <li><em>công nghệ thông tin k63<em></li>
-                <li><strong>lớp thiết kế wed<strong></li>
+                <li><strong>lớp thiết kế website<strong></li>
                 
             </ul>
         </div>
@@ -26,4 +26,4 @@
 </html>
 ```
 ## ảnh giao diện :
-![ảnh dao diện](3.png)
+![ảnh dao diện](1.png)
